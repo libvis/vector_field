@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img width="312px" alt="libvis logo" src="webvis.dev/logo.png"/>
+    <img width="312px" alt="libvis logo" src="https://webvis.dev/logo.png"/>
 </div>
 
 
