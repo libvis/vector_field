@@ -1,7 +1,7 @@
 
-    <div align="center">
-        <img width="312px" alt="libvis logo" src="webvis.dev/logo.png"/>
-    </div>
+<div align="center">
+    <img width="312px" alt="libvis logo" src="webvis.dev/logo.png"/>
+</div>
 
 
 This is a [libvis](http://webvis.dev) module for 
