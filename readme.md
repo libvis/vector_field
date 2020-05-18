@@ -1,12 +1,16 @@
 
 <div align="center">
-    <img width="312px" alt="libvis logo" src="http://webvis.dev/logo.png"/>
+    <img width="212px" alt="libvis logo" src="http://libvis.dev/libvis-sm.png"/>
 </div>
 
 
-This is a [libvis](http://webvis.dev) module for 
+This is a [libvis](http://libvis.dev) module for 
 interactive vector field visualization.
 
 # Installation
 
-`webvis_mods install vector_field`
+```
+libvis-mods download gh:libvis/vector_field
+cd google_charts
+libvis-mods install
+```
